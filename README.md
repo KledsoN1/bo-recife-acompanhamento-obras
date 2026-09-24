@@ -22,7 +22,7 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 
 | Nome | GitHub |
 |---|---|
-| | |
+|Kledson Tenório | KledsoN1 |
 | | |
 | | |
 
