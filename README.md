@@ -27,6 +27,7 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 |Anna Luiza| AnnaLuiza-sb |
 |Alex Johny| alexj88 |
 |João Rodrigues| Joaovitor-bot|
+|Maria Clara Matos | Claramatosdt|
 ---
 
 ## Critério central do projeto
