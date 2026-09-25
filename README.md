@@ -26,7 +26,7 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 |Wiviam Eshley | WiviamEshley |
 |Anna Luiza| AnnaLuiza-sb |
 |Alex Johny| alexj88 |
-
+|João Rodrigues| Joaovitor-bot|
 ---
 
 ## Critério central do projeto
