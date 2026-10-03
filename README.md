@@ -14,9 +14,9 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 
 - Turma:
 - Grupo:
-- Nome do projeto:
-- BO escolhido:
-- Link do BO:
+- Nome do projeto: ObraFácil
+- BO escolhido: Acompanhamento Automatizado de Obras Públicas. 
+- Link do BO: https://coreto.app.emprel.gov.br/banco-de-bo/acompanhamento-automatizado-de-obras-publicas
 
 ### Integrantes
 
