@@ -1,69 +1,86 @@
-# 03 — Proposta de Solução
+# 03 — Proposta de solução
 
-> **Objetivo deste documento:** apresentar a solução tecnológica proposta pela equipe e mostrar como ela se relaciona com o problema e as evidências levantadas.
+> **Objetivo deste documento:** apresentar uma solução tecnológica proposta pela equipe e mostrar como ela se relaciona com o problema e as evidências levantadas.
 >
 > **Avaliação:** AV1
 >
-> Cada funcionalidade deve estar ligada a uma parte do problema descrito em [01-problema.md](01-problema.md) e às evidências de [02-investigacao-e-evidencias.md](02-investigacao-e-evidencias.md).
+> Cada funcionalidade deve estar ligada a uma parte do problema descrito em [01-problema.md](https://github.com/KledsoN1/bo-recife-acompanhamento-obras/blob/main/docs/01-problema.md) e às evidências de [02-investigacao-e-evidencias.md](https://github.com/KledsoN1/bo-recife-acompanhamento-obras/blob/main/docs/02-investigacao-e-evidencias.md).
 
 ---
 
 ## Nome da solução
 
+**ObraFácil**
+
 ## Resumo
 
-_Explique a solução em até 5 linhas: o que é, para quem é e qual problema resolve._
+O ObraFácil é uma plataforma web interativa voltada para o monitoramento e acompanhamento de obras públicas municipais. A solução centraliza informações sobre prazos, custos, andamento e responsáveis pelas obras. Para os gestores, facilita o acompanhamento e gerenciamento dos projetos. Para a população, oferece uma consulta pública simplificada e transparente sobre as obras do município.
 
 ## Público-alvo
 
-_Quem será beneficiado pela solução?_
+- **Gestores públicos:** responsáveis pelo acompanhamento e gerenciamento das obras municipais.
+- **População (cidadãos):** pessoas interessadas em consultar informações sobre as obras públicas do município.
 
 ## Usuários
 
-_Quem vai utilizar o sistema diretamente? (Pode ser diferente do público-alvo.)_
-
-| Tipo de usuário | O que faz no sistema? |
-|---|---|
-| | |
+| **Tipo de usuário** | **O que faz no sistema?** |
+| ------------------- | ------------------------- |
+| Gestor público | Cadastra, acompanha e gerencia informações sobre obras, prazos, custos, responsáveis e relatórios. |
+| Cidadão | Consulta obras públicas e visualiza informações sobre andamento, custos, prazos, responsáveis e status da execução. |
 
 ## Proposta de valor
 
-_Por que a solução é útil? O que ela melhora em relação à situação atual?_
+O ObraFácil centraliza as informações das obras públicas em uma única plataforma, tornando o acompanhamento mais organizado e facilitando a identificação de atrasos e custos adicionais.
+
+Para os gestores, a solução oferece dashboards, indicadores e alertas para auxiliar no monitoramento das obras. Para a população, disponibiliza uma consulta pública simples e acessível, ampliando o acesso às informações sobre a execução dos projetos.
 
 ## Fluxo principal
 
-_Descreva o caminho principal que o usuário percorre para obter o resultado esperado._
-
-Representação genérica (adapte para a solução da equipe):
+### Gestor público
 
 ```text
-Usuário
+Login
    ↓
-Interface
+Dashboard
    ↓
-Sistema
+Lista de Obras
    ↓
-Processamento
+Selecionar ou Cadastrar Obra
    ↓
-Resultado
+Detalhes da Obra
+   ↓
+Relatórios
 ```
 
-## Funcionalidades essenciais
+### Cidadão
 
-_Funcionalidades sem as quais a solução não resolve o problema. Prioridade: Alta, Média ou Baixa._
+```text
+Consulta Pública
+   ↓
+Pesquisar ou Filtrar Obras
+   ↓
+Visualizar Obras
+   ↓
+Selecionar uma Obra
+   ↓
+Ver Detalhes
+```
 
-| ID | Funcionalidade | Problema que ajuda a resolver | Prioridade |
-|---|---|---|---|
-| F01 | | | Alta |
-| F02 | | | |
-| F03 | | | |
+## Funcionalidades
+
+| **ID** | **Funcionalidade**                | **Problema que ajuda a resolver**                                               | **Prioridade** |
+| ------ | --------------------------------- | ------------------------------------------------------------------------------- | -------------- |
+| F01    | Dashboard de acompanhamento       | Facilita o monitoramento de prazos, custos e status das obras pelos gestores.   | Alta           |
+| F02    | Cadastro e gerenciamento de obras | Centraliza as informações das obras e reduz a dependência de processos manuais. | Alta           |
+| F03    | Consulta pública de obras         | Facilita o acesso da população a informações claras sobre as obras públicas.    | Alta           |
 
 ## Funcionalidades futuras
 
-_Funcionalidades desejáveis, mas que não são essenciais neste momento._
-
--
+- Atualização automática das informações das obras.
+- Notificações sobre alterações no status das obras.
+- Histórico de alterações e atualizações de cada obra.
+- Integração com dados reais da Prefeitura.
 
 ## Diferencial
 
-_O que diferencia esta proposta das soluções existentes pesquisadas?_
+O ObraFácil integra, em uma única plataforma, o gerenciamento das obras pelos gestores públicos e a consulta transparente dessas informações pela população. A solução também prioriza uma interface simples e centrada no usuário, facilitando a navegação e o acesso às informações.
