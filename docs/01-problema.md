@@ -1,59 +1,49 @@
 # 01 — Problema
 
-> **Objetivo deste documento:** descrever com clareza o problema real escolhido no Banco de Oportunidades (BO) e delimitar qual parte dele será tratada pela equipe.
->
-> **Avaliação:** AV1
->
-> **Como preencher:** substitua as orientações em itálico pelo texto da equipe. Seja específico: evite frases genéricas como "o sistema vai melhorar a vida das pessoas".
-
----
-
 ## BO selecionado
 
-- **Título do BO:**
-- **URL:**
-- **Área temática:**
-- **Órgão/secretaria responsável (se informado):**
+- **Título do BO:** Acompanhamento de obras públicas municipais
+- **URL:** https://coreto.app.emprel.gov.br/banco-de-bo/acompanhamento-automatizado-de-obras-publicas
+- **Área temática:** *[preencher]*
+- **Órgão/secretaria responsável:** Prefeitura do Recife
 
 ## Descrição do problema
 
-_Explique, com as palavras da equipe, qual é o problema apresentado no BO. Não copie apenas o texto do site: mostre que o grupo compreendeu a situação._
+O acompanhamento de obras públicas municipais é realizado de forma manual, o que dificulta a organização e o monitoramento das informações relacionadas à execução dos projetos. Esse processo torna mais complexo o controle de prazos, custos e qualidade, além de dificultar uma visão integrada do andamento das obras.
+
+Dessa forma, existe a necessidade de aprimorar o acompanhamento desses projetos, tornando o processo mais organizado e eficiente e facilitando o acesso às informações sobre a execução das obras.
 
 ## Delimitação
 
-_O problema do BO costuma ser amplo. Qual recorte a equipe vai atacar? O que fica de fora?_
+O projeto será direcionado ao acompanhamento das informações relacionadas à execução de obras públicas municipais, buscando facilitar o monitoramento dos projetos e a visualização de dados sobre seu andamento.
 
-- **Parte do problema que será tratada:**
-- **Parte do problema que NÃO será tratada:**
+- **Parte do problema que será tratada:** organização e acompanhamento das informações relacionadas ao andamento das obras, incluindo dados sobre prazos, custos e qualidade, além da disponibilização dessas informações de forma mais acessível à população.
+- **Parte do problema que NÃO será tratada:** a execução direta das obras, bem como a gestão operacional das equipes responsáveis pelos projetos.
 
 ## Quem é afetado
 
-_Identifique os grupos de pessoas ou instituições afetados pelo problema (cidadãos, servidores, empresas, bairros específicos etc.)._
-
 | Grupo afetado | Como é afetado? |
 |---|---|
-| | |
+| Gestores públicos | Possuem dificuldades para acompanhar o progresso das obras e controlar informações relacionadas a prazos, custos e qualidade. |
+| População (cidadãos) | Encontra dificuldades para acessar informações claras e acompanhar o andamento das obras públicas municipais. |
 
 ## Onde acontece
 
-_Em que local, território, serviço ou processo o problema ocorre?_
+O problema ocorre no processo de acompanhamento e monitoramento de obras públicas municipais, envolvendo tanto a gestão das informações pelos gestores públicos quanto o acesso da população a essas informações.
 
 ## Importância
 
-_Por que vale a pena resolver este problema? Qual a relevância para a cidade e para as pessoas?_
+A melhoria desse processo pode contribuir para um acompanhamento mais organizado e eficiente das obras públicas, facilitando o monitoramento pelos gestores e ampliando a transparência das informações disponibilizadas à população.
 
 ## Consequências
 
-_O que acontece se o problema continuar sem solução?_
+Caso o problema continue sem uma solução adequada:
 
--
--
--
+- O acompanhamento do progresso das obras pode permanecer menos eficiente.
+- Pode ser mais difícil identificar atrasos e controlar custos adicionais.
+- A população pode continuar tendo dificuldades para acessar e compreender informações sobre o andamento das obras.
+- A avaliação da qualidade e da execução dos projetos pode ser prejudicada.
 
 ## Pergunta central
 
-> A pergunta central orienta todo o projeto. Ela deve ser específica e indicar **quem** será beneficiado e **o que** se pretende melhorar.
->
-> **Exemplo de estrutura (não é resposta):** "Como poderíamos _[ação]_ para _[público]_ de modo que _[resultado esperado]_?"
-
-Como poderíamos _________________________________________________?
+> **Como poderíamos aprimorar o acompanhamento das obras públicas municipais para facilitar o monitoramento pelos gestores públicos e ampliar o acesso da população a informações claras sobre o andamento dos projetos?**
