@@ -4,7 +4,7 @@
 
 - **Título do BO:** Acompanhamento de obras públicas municipais
 - **URL:** https://coreto.app.emprel.gov.br/banco-de-bo/acompanhamento-automatizado-de-obras-publicas
-- **Área temática:** *[preencher]*
+- **Área temática:** *Gestão Pública e Transparência*
 - **Órgão/secretaria responsável:** Prefeitura do Recife
 
 ## Descrição do problema
