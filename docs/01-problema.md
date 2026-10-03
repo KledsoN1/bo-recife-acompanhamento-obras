@@ -44,6 +44,6 @@ Caso o problema continue sem uma solução adequada:
 - A população pode continuar tendo dificuldades para acessar e compreender informações sobre o andamento das obras.
 - A avaliação da qualidade e da execução dos projetos pode ser prejudicada.
 
-## Pergunta central
+## Pergunta
 
 > **Como poderíamos aprimorar o acompanhamento das obras públicas municipais para facilitar o monitoramento pelos gestores públicos e ampliar o acesso da população a informações claras sobre o andamento dos projetos?**
