@@ -68,15 +68,15 @@ _* **Jornal do Commercio (JC / Coluna Mobilidade)**
 
 _* **Relatório Técnico do Tribunal de Contas de Pernambuco (TCE-PE):**
   * **Título / Estudo:** *Diagnóstico de Obras Públicas Paralisadas no Estado de Pernambuco* (Relatório de Auditoria Operacional).
-  * **O que aborda:** Examina as causas do atraso e paralisação de empreendimentos públicos, destacando a fragilidade no acompanhamento do planejamento inicial, deficiências no controle físico-financeiro por parte dos municípios e a falta de integração dos dados de engenharia[cite: 8].
+  * **O que aborda:** Examina as causas do atraso e paralisação de empreendimentos públicos, destacando a fragilidade no acompanhamento do planejamento inicial, deficiências no controle físico-financeiro por parte dos municípios e a falta de integração dos dados de engenharia.
 
 * **Artigo Acadêmico (Transparência Pública e Controle Social):**
-  * **Autores / Veículo:** MOURA, R. et al. — *Transparência Ativa e Controle Social na Gestão Pública Municipal* (Revista de Administração Pública / Ensaios de Gestão)[cite: 8].
-  * **O que aborda:** Analisa a diferença entre disponibilizar dados em atendimento a exigências legais (transparência passiva) e oferecer plataformas com usabilidade e geolocalização que permitam o engajamento do cidadão (transparência ativa)[cite: 8].
+  * **Autores / Veículo:** MOURA, R. et al. — *Transparência Ativa e Controle Social na Gestão Pública Municipal* (Revista de Administração Pública / Ensaios de Gestão).
+  * **O que aborda:** Analisa a diferença entre disponibilizar dados em atendimento a exigências legais (transparência passiva) e oferecer plataformas com usabilidade e geolocalização que permitam o engajamento do cidadão (transparência ativa).
 
 * **Estudo sobre Governo Digital e Cidades Inteligentes:**
-  * **Documento:** *Plano de Governo Digital do Recife e Diretrizes para Cidades Inteligentes* (Documentação Técnica / IPEA & Prefeitura do Recife)[cite: 8].
-  * **O que aborda:** Evidencia a necessidade de adoção de dashboards interativos e ecossistemas abertos para monitoramento de infraestrutura urbana, visando reduzir o tempo de resposta da gestão pública e aumentar a eficiência operacional dos fiscais[cite: 8].
+  * **Documento:** *Plano de Governo Digital do Recife e Diretrizes para Cidades Inteligentes* (Documentação Técnica / IPEA & Prefeitura do Recife).
+  * **O que aborda:** Evidencia a necessidade de adoção de dashboards interativos e ecossistemas abertos para monitoramento de infraestrutura urbana, visando reduzir o tempo de resposta da gestão pública e aumentar a eficiência operacional dos fiscais.
 Como atualizar no arquivo:_
 
 -
