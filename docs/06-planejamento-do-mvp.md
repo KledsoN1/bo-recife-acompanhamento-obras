@@ -34,7 +34,7 @@ Apresentação das informações financeiras das obras;
 Apresentação da situação atual das obras;
 Apresentação de prazos e datas;
 Dashboard do gestor com indicadores das obras.
--
+
 
 ## O que NÃO estará no MVP?
 
@@ -48,7 +48,7 @@ Inteligência Artificial;
 Análise preditiva;
 Integração com sistemas governamentais externos;
 Recursos avançados de Ciência de Dados.
--
+
 Requisitos futuros a serem implantados. 
 
 ## Fluxo mínimo que deverá funcionar
