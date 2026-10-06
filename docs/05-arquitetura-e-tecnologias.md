@@ -10,8 +10,17 @@
 
 ## Arquitetura
 
-O ObraFácil será uma aplicação web para acompanhamento de obras públicas. O sistema será composto por uma interface desenvolvida em HTML, CSS e JavaScript e um banco de dados SQLite para armazenamento das informações. Se possível, inclua um diagrama salvo em [`/assets`](../assets/)._
+O ObraFácil será uma aplicação web para acompanhamento de obras públicas. O sistema será composto por uma interface desenvolvida em HTML, CSS e JavaScript e um banco de dados SQLite para armazenamento das informações.
 
+```mermaid
+flowchart TD
+    A["USUÁRIO<br>Gestor / Cidadão"]
+    B["FRONTEND<br>HTML + CSS + JavaScript"]
+    C["BANCO DE DADOS<br>SQLite"]
+
+    A --> B
+    B --> C
+```
 
 ## Frontend
 
