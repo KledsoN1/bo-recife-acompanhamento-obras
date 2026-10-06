@@ -23,31 +23,31 @@ Um bom MVP:
 
 Com base nos requisitos funcionais e nos critérios de aceite definidos para o ObraFácil, o MVP deverá conter:
 
-Cadastro de obras públicas;
-Consulta das obras cadastradas;
-Pesquisa de obras por nome ou identificador;
-Visualização dos detalhes de uma obra;
-Apresentação do andamento e percentual de execução;
-Atualização das informações das obras pelos gestores;
-Área de consulta pública;
-Apresentação das informações financeiras das obras;
-Apresentação da situação atual das obras;
-Apresentação de prazos e datas;
-Dashboard do gestor com indicadores das obras.
+- Cadastro de obras públicas;
+- Consulta das obras cadastradas;
+- Pesquisa de obras por nome ou identificador;
+- Visualização dos detalhes de uma obra;
+- Apresentação do andamento e percentual de execução;
+- Atualização das informações das obras pelos gestores;
+- Área de consulta pública;
+- Apresentação das informações financeiras das obras;
+- Apresentação da situação atual das obras;
+- Apresentação de prazos e datas;
+- Dashboard do gestor com indicadores das obras.
 
 
 ## O que NÃO estará no MVP?
 
 Para manter o escopo do MVP compatível com os requisitos definidos, não serão incluídos:
 
-Aplicativo mobile;
-Integração com mapas;
-Integração com APIs externas;
-Notificações por e-mail;
-Inteligência Artificial;
-Análise preditiva;
-Integração com sistemas governamentais externos;
-Recursos avançados de Ciência de Dados.
+- Aplicativo mobile;
+- Integração com mapas;
+- Integração com APIs externas;
+- Notificações por e-mail;
+- Inteligência Artificial;
+- Análise preditiva;
+- Integração com sistemas governamentais externos;
+- Recursos avançados de Ciência de Dados.
 
 Requisitos futuros a serem implantados. 
 
